@@ -1,20 +1,12 @@
+# Hi 👋, I'm Anzhelika! 
+A Few Quick Facts:
 
-<!--
-**Anzhelika-Akmatova/Anzhelika-Akmatova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hi 👋, I'm Anzhelika!
+- 🔭 I’m currently open to job opportunities as QA Engineer
+- 📃  I’m finished functional software testing course
+- 💼 I’m сame to IT from banking sector
+- 🧠 I love getting knowledge
+- 📝 Most of my study cases are available on Github
+- 🧘 Random fact about me: I'm fond of yoga 🧘
 
 ---
 
@@ -26,10 +18,7 @@ My main qualities are perseverance and attention to detail - these are the quali
 
 📄 My resume: [![My resume](https://img.shields.io/badge/CV-blue?style=flat&logo=CV&logoColor=white&labelColor=white&color=white&link=%40https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1M7NBOE0HIdKiDDf32Kj_Cs4N9NN3YE9o%2Fview%3Fusp%3Dsharing-blue)](https://drive.google.com/file/d/1M7NBOE0HIdKiDDf32Kj_Cs4N9NN3YE9o/view?usp=sharing)
 
-
-
 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/%40anzhelika-akmatova-blue?style=flat&logo=LinkedIn&logoColor=white&labelColor=blue&color=blue)](https://www.linkedin.com/in/anzhelika-akmatova/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:anzhelika.akmatova@gmail.com)
-
 
 ---
 
