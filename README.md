@@ -1,4 +1,6 @@
-# Hi 👋, I'm Anzhelika! 
+ # Hi <img src="http://liubavyshka.my1.ru/_ph/80/2/374813566.gif?1693241766"> , I'm Anzhelika!
+  
+<img align="right" src="https://i.gifer.com/Gjnl.gif" height="150">
 A Few Quick Facts:
 
 - 🔭 I’m currently open to job opportunities as QA Engineer
@@ -10,7 +12,7 @@ A Few Quick Facts:
 
 ---
 
-### 👨‍💻 About me:
+### 👩 About me:
 
 I'm junor QA. 
 Until recently, I worked in the banking sector and I have extensive experience in lending to businesses and individuals.
@@ -44,6 +46,7 @@ My main qualities are perseverance and attention to detail - these are the quali
   <img src="https://docs.testit.software/images/testit_logo_icon.png" title="Test-it" alt="Test-it" width="40" height="40"/>&nbsp
   <img src="https://luna1.co/eb0187.png" title="Qase" alt="Qase" width="40" height="40"/>&nbsp
 </div>
+
 ---
 
 ### 🛠 Web Application Testing:
@@ -83,6 +86,10 @@ My main qualities are perseverance and attention to detail - these are the quali
 </div>
 
 ---
+### Test Artifacts:
+
+
+<h3 align="center"> Made with love 💕 </h3>
 
 <!-- ### 💻 Пройденные курсы:
 | Курсы                                                           | Дата              |
