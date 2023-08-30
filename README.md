@@ -87,9 +87,19 @@ My main qualities are perseverance and attention to detail - these are the quali
 
 ---
 ### Test Artifacts:
+<p> 
+ <ul>
+<li>  <a href="https://git@github.com:Anzhelika-Akmatova/Web_Application_Testing.git"> Web_Application_Testing </a>  </li>
+<li>  <a href="https://git@github.com:Anzhelika-Akmatova/API_testing_with_Postman.git"> API_testing_with_Postman </a>   </li>
+<li> <a href="https://git@github.com:Anzhelika-Akmatova/Data_testing.git"> Data_testing </a>   </li>
+<li>  <a href="https://git@github.com:Anzhelika-Akmatova/Mobile_Application_Testing.git"> Mobile_Application_Testing </a>   </li>
+<li> <a href="https://git@github.com:Anzhelika-Akmatova/Git_and_bash_basics.git"> Git_and_bash_basics </a>  </li>
 
+</ul>
+</p>
 
-<h3 align="center"> Made with love 💕 </h3>
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?pause=500&color=000000&width=435&lines=Made+with+love+%F0%9F%92%95)](https://git.io/typing-svg)
+
 
 <!-- ### 💻 Пройденные курсы:
 | Курсы                                                           | Дата              |
