@@ -89,11 +89,11 @@ My main qualities are perseverance and attention to detail - these are the quali
 ### Test Artifacts:
 <p> 
  <ul>
-<li>  <a href="https://git@github.com:Anzhelika-Akmatova/Web_Application_Testing.git"> Web_Application_Testing </a>  </li>
-<li>  <a href="https://git@github.com:Anzhelika-Akmatova/API_testing_with_Postman.git"> API_testing_with_Postman </a>   </li>
-<li> <a href="https://git@github.com:Anzhelika-Akmatova/Data_testing.git"> Data_testing </a>   </li>
-<li>  <a href="https://git@github.com:Anzhelika-Akmatova/Mobile_Application_Testing.git"> Mobile_Application_Testing </a>   </li>
-<li> <a href="https://git@github.com:Anzhelika-Akmatova/Git_and_bash_basics.git"> Git_and_bash_basics </a>  </li>
+<li>  <a href="https://github.com/Anzhelika-Akmatova/Web_Application_Testing.git"> Web_Application_Testing </a>  </li>
+<li>  <a href="https://github.com/Anzhelika-Akmatova/API_testing_with_Postman.git"> API_testing_with_Postman </a>   </li>
+<li> <a href="https://github.com/Anzhelika-Akmatova/Data_testing.git"> Data_testing </a>   </li>
+<li>  <a href="https://github.com/Anzhelika-Akmatova/Mobile_Application_Testing.git"> Mobile_Application_Testing </a>   </li>
+<li> <a href="https://github.com/Anzhelika-Akmatova/Git_and_bash_basics.git"> Git_and_bash_basics </a>  </li>
 
 </ul>
 </p>
