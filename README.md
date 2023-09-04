@@ -18,7 +18,7 @@ I'm QA Engineer.
 Until recently, I worked in the banking sector and I have extensive experience in lending to businesses and individuals.
 My main qualities are perseverance and attention to detail - these are the qualities that make it possible to find bugs and describe errors in detail to eliminate defects. Developed analytical thinking allows you to process test results with high accuracy. Stress resistance, punctuality, trainability.
 
-📄 My resume: [![My resume](https://img.shields.io/badge/CV-blue?style=flat&logo=CV&logoColor=white&labelColor=white&color=white&link=%40https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1M7NBOE0HIdKiDDf32Kj_Cs4N9NN3YE9o%2Fview%3Fusp%3Dsharing-blue)](https://drive.google.com/file/d/1u6tLOmN9jFnChidsDs3-Y_AAp6KdemK6/view?usp=sharing)
+📄 My resume: [![My resume](https://img.shields.io/badge/CV-blue?style=flat&logo=CV&logoColor=white&labelColor=white&color=white&link=%40https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1M7NBOE0HIdKiDDf32Kj_Cs4N9NN3YE9o%2Fview%3Fusp%3Dsharing-blue)](https://drive.google.com/file/d/1evG9MqJ4MfHdgKy51XwMredtcLPK0QnT/view?usp=sharing)
 
 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/%40anzhelika-akmatova-blue?style=flat&logo=LinkedIn&logoColor=white&labelColor=blue&color=blue)](https://www.linkedin.com/in/anzhelika-akmatova/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:anzhelika.akmatova@gmail.com)
 
