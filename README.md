@@ -18,7 +18,7 @@ I'm junor QA.
 Until recently, I worked in the banking sector and I have extensive experience in lending to businesses and individuals.
 My main qualities are perseverance and attention to detail - these are the qualities that make it possible to find bugs and describe errors in detail to eliminate defects. Developed analytical thinking allows you to process test results with high accuracy. Stress resistance, punctuality, trainability.
 
-📄 My resume: [![My resume](https://img.shields.io/badge/CV-blue?style=flat&logo=CV&logoColor=white&labelColor=white&color=white&link=%40https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1M7NBOE0HIdKiDDf32Kj_Cs4N9NN3YE9o%2Fview%3Fusp%3Dsharing-blue)](https://drive.google.com/file/d/12-3RUygxC8niSXUI6VnIK_0tX_FWZSdF/view?usp=sharing)
+📄 My resume: [![My resume](https://img.shields.io/badge/CV-blue?style=flat&logo=CV&logoColor=white&labelColor=white&color=white&link=%40https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1M7NBOE0HIdKiDDf32Kj_Cs4N9NN3YE9o%2Fview%3Fusp%3Dsharing-blue)](https://drive.google.com/file/d/1u6tLOmN9jFnChidsDs3-Y_AAp6KdemK6/view?usp=sharing)
 
 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/%40anzhelika-akmatova-blue?style=flat&logo=LinkedIn&logoColor=white&labelColor=blue&color=blue)](https://www.linkedin.com/in/anzhelika-akmatova/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:anzhelika.akmatova@gmail.com)
 
@@ -53,7 +53,7 @@ My main qualities are perseverance and attention to detail - these are the quali
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="DevTools" alt="DevTools" width="40" height="40"/>&nbsp
-  <img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="Soapui" alt="Soapui" width="40" height="40"/>&nbsp
 </div>
 
@@ -98,7 +98,7 @@ My main qualities are perseverance and attention to detail - these are the quali
 </ul>
 </p>
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?pause=500&color=000000&width=435&lines=Made+with+love+%F0%9F%92%95)](https://git.io/typing-svg)
+### ![Typing SVG](https://readme-typing-svg.herokuapp.com?pause=500&color=000000&width=435&lines=Made+with+love+%F0%9F%92%95)
 
 
 <!-- ### 💻 Пройденные курсы:
