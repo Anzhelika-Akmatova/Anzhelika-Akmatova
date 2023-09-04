@@ -14,7 +14,7 @@ A Few Quick Facts:
 
 ### 👩 About me:
 
-I'm junor QA. 
+I'm QA Engineer. 
 Until recently, I worked in the banking sector and I have extensive experience in lending to businesses and individuals.
 My main qualities are perseverance and attention to detail - these are the qualities that make it possible to find bugs and describe errors in detail to eliminate defects. Developed analytical thinking allows you to process test results with high accuracy. Stress resistance, punctuality, trainability.
 
